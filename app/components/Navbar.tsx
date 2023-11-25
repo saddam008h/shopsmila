@@ -11,7 +11,6 @@ export default function Navbar() {
     <Box sx={{ flexGrow: 1 }} >
       <AppBar position="static">
         <Toolbar>
-          
           <Typography
             variant="h6"
             noWrap

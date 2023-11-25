@@ -36,9 +36,9 @@ const Search = styled('div')(({ theme }) => ({
       transition: theme.transitions.create('width'),
       width: '100%',
       [theme.breakpoints.up('sm')]: {
-        width: '20ch',
+        width: '40ch',
         '&:focus': {
-          width: '30ch',
+          width: '60ch',
         },
       },
     },
